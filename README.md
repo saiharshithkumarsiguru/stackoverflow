@@ -1,15 +1,16 @@
 <html>
 <h1>What are the most popular TecHnoLoGies among DeveLopERS?</h1>
 
-<h2>Table of Contents</h2>
-
+<h1>Table of Contents</h1>
+<pre>
 <a href="Installation">Installation</a>
 <a href="Project Motivation">Project Motivation</a>
 <a href="File Description">File Description</a>
 <a href="Results">Results</a>
 <a href="Licensing, Authors, Acknowledgements">Licensing, Authors, Acknowledgements</a>
+</pre>
+<div id="Installation">
 
-<div id="Installation"
 <h1>Installation</h1>
 
 You are supposed to use this command for downloading this files into "git clone https://github.com/saiharshithkumarsiguru/stackoverflow/"  
@@ -69,9 +70,10 @@ Angular,Node.js, React and .Net core are the most popular frameworks on which d
 </div>
 <div id="Licensing, Authors, Acknowledgements">
 <h1>Licensing, Authors, Acknowledgements</h1>
-
+<pre>
 open source mit
 It is part of udacity nano degree program
 data is from stackoverflow
+</pre>
 </div>
  </html>
