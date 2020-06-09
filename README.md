@@ -3,11 +3,11 @@
 
 <h1>Table of Contents</h1>
 <pre>
-<a href="Installation">Installation</a>
-<a href="Project Motivation">Project Motivation</a>
-<a href="File Description">File Description</a>
-<a href="Results">Results</a>
-<a href="Licensing, Authors, Acknowledgements">Licensing, Authors, Acknowledgements</a>
+<a href="#Installation">Installation</a>
+<a href="#Project Motivation">Project Motivation</a>
+<a href="#File Description">File Description</a>
+<a href="#Results">Results</a>
+<a href="#Licensing, Authors, Acknowledgements">Licensing, Authors, Acknowledgements</a>
 </pre>
 <div id="Installation">
 
